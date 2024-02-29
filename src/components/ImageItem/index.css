@@ -1,0 +1,13 @@
+.image {
+  width: 100px;
+  margin: 8px;
+}
+@media screen and (max-width: 768px) {
+  .image {
+    width: 90px;
+  }
+}
+.image-btn {
+  background-color: transparent;
+  border: 0px;
+}

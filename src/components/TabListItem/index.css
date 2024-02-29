@@ -1,0 +1,13 @@
+.tab-item {
+  color: #ffffff;
+  font-size: 19px;
+  font-weight: 600;
+  background-color: transparent;
+  border: 0px;
+}
+
+.active-item {
+  color: #fec653;
+  font-size: 22px;
+  border-bottom: 2px solid #fec653;
+}
